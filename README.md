@@ -3,6 +3,6 @@ The Repository is about analysing the famous wine dataset on kaggle with multipl
 
 ## 📊 Wine Dataset Analysis Report  
 
-[![Wine Report Preview](assets/wine_report_preview.png)](assets/wine_report.pdf)  
+[![Wine Report Preview](assets/wine_report_thumbnail.png)](assets/wine_report.pdf)  
 Click the image to view the full report.
 
